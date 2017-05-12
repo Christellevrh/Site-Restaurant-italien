@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+  font-size: 60px;
+  color: red;
+  font-family: cursive;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 16px;
+  font-style: italic;
+  color: green;
+  font-family: cursive;
+}
+
+h3{
+  text-align: center;
+  text-decoration: underline;
+  font-size: 25px;
+  font-style: italic;
+  color: green;
+}
+
+div {
+  text-align: center;
+}
+
+label {
+  color: green;
+}
+
+img {
+  overflow: scroll;
+}

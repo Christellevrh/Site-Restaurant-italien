@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+  font-size: 40px;
+  color: red;
+  font-family: cursive;
+}
+
+h2{
+  text-align: center;
+  color: green;
+  font-style: italic;
+  font-size: 30px;
+}
